@@ -1,0 +1,15 @@
+business	invalid line:31
+business	banana,chiquita,fyffes:0.044193216855087356
+business	bankruptcy,files,sbarro:0.030832476875642344
+entertainment	invalid line:20
+entertainment	bachelor,juan,pablo:0.14939024390243902
+entertainment	detective,finale,true:0.07621951219512195
+medicine	invalid line:31
+medicine	alzheimer,blood,test:0.08221993833504625
+medicine	alzheimer,predict,test:0.0421377183967112
+sport	invalid line:4
+sport	football,national,team:0.03
+sport	cup,russia,world:0.023
+technology	invalid line:39
+technology	android,google,wearables:0.039378238341968914
+technology	apple,ios,releases:0.03730569948186528
